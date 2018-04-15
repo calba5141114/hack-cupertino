@@ -1,0 +1,24 @@
+{
+  "name": "hack-cupertino",
+  "version": "1.0.0",
+  "description": "a social media app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calba5141114/hack-cupertino.git"
+  },
+  "keywords": [
+    "mongo",
+    "social",
+    "media"
+  ],
+  "author": "Carlos Alba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calba5141114/hack-cupertino/issues"
+  },
+  "homepage": "https://github.com/calba5141114/hack-cupertino#readme"
+}
