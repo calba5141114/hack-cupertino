@@ -1,10 +1,10 @@
-"esversion: 6";
+var userAuthorized = true;
 
-function loggedIn(user) {
+function loggedIn(userAuthorized) {
     if (userAuthorized) {
         () => {
             // go to feed of user.
-            location.href = './pages/feed.html';
+            location.href = '/pages/feed.html';
         }
     } else if (!userAuthorized) {
         alert("User is Not Authorized");
@@ -14,5 +14,6 @@ function loggedIn(user) {
     }
 }
 
-let user = true;
+
+
 
